@@ -42,4 +42,46 @@ SatDreamGr-8==http://sgcpm.com/satdreamgr-images-8/octagon/sf8008/latest.zip
 SatDreamGr-10==https://sgcpm.com/satdreamgr-images-10/octagon/sf8008/Satdreamgr-10-sf8008-20240225-multiboot.zip
 TNAP-5.1==https://www.tnapimages.com/download.php?file=tnap-5.1%2FTNAP-5.1-sf8008-20240729_multiboot.zip
 TNAP-6==https://www.tnapimages.com/download.php?file=tnap6-test-image%2Fsf8008%2FTNAP-6-sf8008-20250427_multiboot.zip
+[=====================OCTAGON SX88V2=====================]
+openATV 7.3-enigma2 https://images.mynonpublic.com/openatv/7.3/current.php?open=sx88v2
+openATV 7.4-enigma2 https://images.mynonpublic.com/openatv/7.4/current.php?open=sx88v2
+openATV 7.6-enigma2 https://images.mynonpublic.com/openatv/7.6/current.php?open=sx88v2
+openATV 7.5.1-enigma2 https://images.mynonpublic.com/openatv/7.5.1/current.php?open=sx88v2
+OpenBh 5.6 enigma2-current https://images.openbh.net/latest/5.6/sx88v2
+OpenBh 5.5.1 enigma2 current https://images.openbh.net/latest/5.5.1/sx88v2
+OpenEight 6.8 enigma2-http://openeight.de/current.php?open=sx88v2
+OpenHDF 7.3 enigma2-https://v73.hdfreaks.cc/current.php?open=sx88v2
+OpenPLi enigma2-http://downloads.openpli.org/emmc/sx88v2
+OpenViX 6.x enigma2-http://www.openvix.co.uk/openvix-builds/current.php?open=sx88v2
+[=====================PULSE 4K MINI=====================]
+OpenATV_7.3_enigma2 https://images.mynonpublic.com/openatv/7.3/current.php?open=pulse4kmini
+OpenATV_7.4_enigma2 https://images.mynonpublic.com/openatv/7.4/current.php?open=pulse4kmini
+OpenATV_7.6_enigma2 https://images.mynonpublic.com/openatv/7.6/current.php?open=pulse4kmini
+OpenATV_7.5.1_enigma2 https://images.mynonpublic.com/openatv/7.5.1/current.php?open=pulse4kmini
+OpenBh_5.6_enigma2_current https://images.openbh.net/latest/5.6/pulse4kmini
+OpenBh_5.5.1_enigma2_current https://images.openbh.net/latest/5.5.1/pulse4kmini
+OpenHDF_7.3_enigma2_current https://v73.hdfreaks.cc/current.php?open=pulse4kmini
+OpenHDF_7.5_enigma2_current https://v75.hdfreaks.cc/current.php?open=pulse4kmini
+OpenSPA_8.x_E2_current https://openspa.webhop.info/current.php?open=Descarga%20de%20Im%C3%A1genes/AB-COM/PULSe%204K%20Mini
+AREADELTASAT_9.3_r19 https://images.areadeltasat.net/builds/pulse4kmini/areadeltasat-9.3-r19-pulse4kmini_emmc.zip
+Hyperion_X.3_E2_zukonMOD https://bootmenu.zukon.pl/bootmenu/hyperion-X3-pulse4kmini-current_mmc.zip
+[=====================ZGEMMA H9 TWIN SE=====================]
+OpenATV_7.3_E2 https://images.mynonpublic.com/openatv/7.3/current.php?open=zgemmah9twinse
+OpenATV_7.4_E2 https://images.mynonpublic.com/openatv/7.4/current.php?open=zgemmah9twinse
+OpenATV_7.6_E2 https://images.mynonpublic.com/openatv/7.6/current.php?open=zgemmah9twinse
+OpenATV_7.5.1_E2 https://images.mynonpublic.com/openatv/7.5.1/current.php?open=zgemmah9twinse
+OpenBh_5.6_E2_current https://images.openbh.net/latest/5.6/zgemmah9twinse
+OpenBh_5.5.1_E2_current https://images.openbh.net/latest/5.5.1/zgemmah9twinse
+OpenPLi_8.x_E2_current http://downloads.openpli.org/emmc/h9combose
+OpenViX_6.x_E2_current http://www.openvix.co.uk/openvix-builds/current.php?open=zgemmah9twinse
+Hyperion_X.3_E2_zukonMOD https://bootmenu.zukon.pl/bootmenu/hyperion-X3-zgemmah9twinse-current_multi.zip
+[=====================GB QUAD 4K PRO=====================]
+openATV 7.4-enigma2 https://images.mynonpublic.com/openatv/7.4/current.php?open=gbquad4kpro
+openATV 7.6-enigma2 https://images.mynonpublic.com/openatv/7.6/current.php?open=gbquad4kpro
+openATV 7.5.1-enigma2 https://images.mynonpublic.com/openatv/7.5.1/current.php?open=gbquad4kpro
+OpenBh 5.6-enigma2 https://images.openbh.net/latest/5.6/gbquad4kpro
+OpenBh 5.5.1-enigma2 https://images.openbh.net/latest/5.5.1/gbquad4kpro
+OpenHDF 7.5-enigma2-stable https://v75.hdfreaks.cc/current.php?open=gbquad4kpro
+OpenSPA 8.x-enigma2-stable https://openspa.webhop.info/current.php?open=Descarga%20de%20Im%C3%A1genes/GigaBlue/gbquad4kpro
+teamBlue 7.5-enigma2 https://images.teamblue.tech/7.5.1-release/current.php?open=gbquad4kpro
 [=======================############=======================]
